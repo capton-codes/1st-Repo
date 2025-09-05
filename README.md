@@ -1,4 +1,4 @@
-#  Guess the Number Game (JavaScript)
+#  Guess Master Game
 
 A simple browser-based number guessing game built with HTML, CSS, and JavaScript. The player tries to guess a randomly generated number between 1 and 100. Feedback is given after each guess.
 
