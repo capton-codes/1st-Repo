@@ -16,6 +16,7 @@ function checkGuess() {
 
   if (guess === secretNumber) {
     feedback.textContent = `🎉 Correct! You guessed it in ${attempts} attempts.`;
+    
   } else if (guess < secretNumber) {
     feedback.textContent = "Too low! Try again.";
   } else {

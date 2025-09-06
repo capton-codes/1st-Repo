@@ -16,8 +16,7 @@ body {
   width: 500px;
   height: 400px;
   margin: auto;
-  box-shadow: 0 4px 122px rgba(43, 167, 150, 0.1);
-  border: 5px solid #00796b;
+  box-shadow: 0 4px 100px rgba(43, 150, 141, 0.7);
 }
 
 h1 {
