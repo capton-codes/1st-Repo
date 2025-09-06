@@ -22,5 +22,5 @@ A simple browser-based number guessing game built with HTML, CSS, and JavaScript
 ##  How to Run
 1. Clone the repository:
    ```bash
-         https://github.com/capton-codes/Guess-The-Game-Number.git
+         https://github.com/capton-codes/Game.git
 
